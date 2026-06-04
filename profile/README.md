@@ -2,15 +2,6 @@
 
 # MOA
 
-## 🚀 Project Repositories
-
-| Repository                                         | Description            | 
-| -------------------------------------------------- | ---------------------- |
-| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-app) | Android Application    |
-| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-app/tree/master/backend)   | FestAPI Server |
-| [🎤 STT](추후추가)           | Speech-To-Text Service |
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4aff31ff-26c8-4ff2-8aed-af6f00282c58" width="100%" alt="MOA 표지" />
 </div>
@@ -23,6 +14,17 @@ MOA(Multimodal Orchestrated Assistant **(모아)** — 회의 음성·문서·�
   
 
 **한성대학교 모바일소프트웨어트랙 캡스톤디자인 · 연대기팀** · 개발 기간 2026.03.05 ~ 2026.06.05
+
+
+---
+
+## 프로젝트 레포지토리
+
+| Repository                                         | Description            | 
+| -------------------------------------------------- | ---------------------- |
+| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-app) | Android Application    |
+| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-app/tree/master/backend)   | FestAPI Server |
+| [🎤 STT](추후추가)           | Speech-To-Text Service |
 
 
 ---
