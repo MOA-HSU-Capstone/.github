@@ -4,7 +4,7 @@
 
 ## 🚀 Project Repositories
 
-| Repository                                                                    | Description                          |
+| Repository                                         | Description            | 
 | -------------------------------------------------- | ---------------------- |
 | [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-app) | Android Application    |
 | [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-app/tree/master/backend)   | FestAPI Server |
