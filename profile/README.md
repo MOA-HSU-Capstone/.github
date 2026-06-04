@@ -2,6 +2,15 @@
 
 # MOA
 
+## 🚀 Project Repositories
+
+| Repository                                         | Description            |
+| -------------------------------------------------- | ---------------------- |
+| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-Frontend) | Android Application    |
+| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-Frontend/tree/master/backend)   | FestAPI Server |
+| [🎤 STT](추후추가)           | Speech-To-Text Service |
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4aff31ff-26c8-4ff2-8aed-af6f00282c58" width="100%" alt="MOA 표지" />
 </div>
