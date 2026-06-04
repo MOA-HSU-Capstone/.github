@@ -98,9 +98,8 @@ MOA/
 
 팀에서 정의한 전체 시스템 구성입니다. Android 클라이언트는 **REST API + JWT**로 백엔드와 통신하고, 백엔드는 **SQLAlchemy**로 **SQLite(로컬 기본)** 또는 **MySQL**에 메타데이터를 저장하고, 로컬 파일 저장소·**외부 STT 서버(HTTP)**·**OpenAI** 등과 연동합니다.
 
-<div align="center">
-  <img src="./assets/architecture.png" width="100%" alt="MOA 시스템 아키텍처" />
-</div>
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/2a7da672-5821-4411-b24a-59e68cca837c" />
+
 
 사용자는 Android 앱에서 회의 자료를 올리고, API 서버가 메타데이터와 파일을 저장한 뒤 AI 서비스로 분석·요약 결과를 받아 다시 앱에 전달하는 흐름으로 동작합니다.
 
