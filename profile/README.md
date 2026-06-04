@@ -6,8 +6,8 @@
 
 | Repository                                         | Description            |
 | -------------------------------------------------- | ---------------------- |
-| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-Frontend) | Android Application    |
-| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-Frontend/tree/master/backend)   | FestAPI Server |
+| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-app) | Android Application    |
+| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-app/tree/master/backend)   | FestAPI Server |
 | [🎤 STT](추후추가)           | Speech-To-Text Service |
 
 
