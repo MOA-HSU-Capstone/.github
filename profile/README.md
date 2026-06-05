@@ -3,7 +3,7 @@
 # MOA
 
 <div align="center">
- <img width="402" height="302" alt="Image" src="https://github.com/user-attachments/assets/55c14666-d31e-4e84-ba95-1a923fb21a3f" />
+ <img width="402" height="1000" alt="Image" src="https://github.com/user-attachments/assets/55c14666-d31e-4e84-ba95-1a923fb21a3f" />
 </div> 
 
 MOA(Multimodal Orchestrated Assistant, **모아**) — 회의 음성·문서·이미지를 모아 AI가 요약·결정 사항·할 일까지 정리해 주는 모바일 회의 관리 서비스입니다.
