@@ -22,8 +22,8 @@ MOA(Multimodal Orchestrated Assistant, **모아**) — 회의 음성·문서·�
 
 | Repository                                         | Description            | 
 | -------------------------------------------------- | ---------------------- |
-| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA-app) | Android Application    |
-| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA-app/tree/master/backend)   | FestAPI Server |
+| [📱 Frontend](https://github.com/MOA-HSU-Capstone/MOA) | Android Application    |
+| [⚙️ Backend](https://github.com/MOA-HSU-Capstone/MOA/tree/master/backend)   | FestAPI Server |
 | [🎤 STT](https://github.com/MOA-HSU-Capstone/stt-server)           | Speech-To-Text Service |
 
 
